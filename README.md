@@ -1,4 +1,4 @@
-# weather-app
+# weather-app.
 
 # first install following NPM packages in you directory path.
 
@@ -7,3 +7,5 @@
 ```npm i nodemon```
 
 ```npm i body-parser```
+
+WEATHER API is used in this app .
